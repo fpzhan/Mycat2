@@ -11,6 +11,9 @@ import java.util.Iterator;
 import java.util.function.Consumer;
 import java.util.stream.StreamSupport;
 
+/**
+ * 开始学习
+ */
 public class Main {
     public static void main(String[] args) throws IOException {
         int swapThreshold = 10000;
